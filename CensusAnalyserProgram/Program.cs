@@ -6,7 +6,7 @@ namespace CensusAnalyserProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Welcome to Indian States Census analyser program \n");
+            Console.WriteLine("\n Welcome to Indian States Census Analyser program \n");
         }
     }
 }
